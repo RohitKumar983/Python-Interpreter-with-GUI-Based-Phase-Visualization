@@ -1,4 +1,4 @@
-# Python-Interpreter-with-GUI-Based-Phase-Visualization
+
 # Python Mini-Compiler/Interpreter
 
 A Python-based mini-compiler/interpreter with a Tkinter GUI that demonstrates various compiler phases including Lexical Analysis, Syntax & AST Analysis, Semantic Analysis, Intermediate Code Generation, Code Optimization, and Code Generation.
